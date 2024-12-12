@@ -1,4 +1,4 @@
-# **Likhon Sheikh | Blockchain Developer**
+# **Likhon Sheikh**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:likhonsh3ikh@icloud.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/likhonsh3ikh)  
