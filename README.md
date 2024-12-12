@@ -42,6 +42,6 @@ Blockchain innovator specializing in:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rekt-Developer&style=flat&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=flat&color=brightgreen)  
 
 **Crafted with ❤️ by Likhon Sheikh**
