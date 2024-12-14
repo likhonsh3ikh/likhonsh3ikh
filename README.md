@@ -79,7 +79,11 @@ I'm a passionate **Blockchain Developer** specializing in cutting-edge decentral
 <meta name="twitter:site" content="@likhonsh3ikh">
 <meta name="twitter:creator" content="@likhonsh3ikh">
 
+<!-- Hidden SEO Content for Crawlers and Bots -->
+
+<!-- Open Graph Meta Tags for Enhanced Social Media Preview -->
 <!-- JSON-LD Structured Data for Rich Snippets -->
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -95,7 +99,9 @@ I'm a passionate **Blockchain Developer** specializing in cutting-edge decentral
   ]
 }
 </script>
+<!-- Hidden SEO Content for Crawlers and Bots -->
 
+<!-- Open Graph Meta Tags for Enhanced Social Media Preview -->
 <!-- Verification Meta Tags -->
 <meta name="github-verification" content="true">
 <meta name="telegram-verification" content="true">
