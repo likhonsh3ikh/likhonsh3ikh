@@ -84,21 +84,6 @@ I'm a passionate **Blockchain Developer** specializing in cutting-edge decentral
 <!-- Open Graph Meta Tags for Enhanced Social Media Preview -->
 <!-- JSON-LD Structured Data for Rich Snippets -->
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Likhon Sheikh",
-  "url": "https://github.com/likhonsh3ikh",
-  "image": "https://avatars.githubusercontent.com/u/69582352?v=4",
-  "description": "Likhon Sheikh is a passionate software developer specializing in blockchain technologies like Solidity, Rust, Ethereum, and Solana.",
-  "sameAs": [
-    "https://www.linkedin.com/in/likhon-sheikh",
-    "https://t.me/likhondev",
-    "https://likhon.dev"
-  ]
-}
-</script>
 <!-- Hidden SEO Content for Crawlers and Bots -->
 
 <!-- Open Graph Meta Tags for Enhanced Social Media Preview -->
