@@ -1,7 +1,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/likhonsh3ikh/likhonsh3ikh/refs/heads/main/tenor.gif)  
 
 **লিখন শেখ**  
-ব্লকচেইনের খেলায় মেতে আছি, কোড দিয়ে ভবিষ্যৎ গড়ছি!  
+
 **Solidity**, **Rust**, **Ethereum**, আর **Solana** নিয়ে কাজ করি। মিশন? ব্লকচেইনের দুনিয়া কাঁপানো!  
 
 ---
