@@ -1,89 +1,61 @@
-<div align="center">
+# Likhon Sheikh - Innovator & Blockchain Developer
 
-# 👋 Hello, I'm **Likhon Sheikh**  
-> _"Innovation is not just about creating something new, but reimagining the possible."_
+![Likhon Sheikh](https://avatars.githubusercontent.com/u/69582352?v=4)
 
----
+## 👨‍💻 About Me
 
-## 🚀 Tech Stack  
-### 🔧 Tools & Technologies  
-<div align="center">
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" alt="Solidity" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="Rust" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
-  </a>
-  <a href="https://ethereum.org/" target="_blank">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" alt="Ethereum" />
-  </a>
-  <a href="https://solana.com/" target="_blank">
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" alt="Solana" />
-  </a>
-  <a href="https://polygon.technology/" target="_blank">
-    <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" width="50" alt="Polygon" />
-  </a>
-</div>
+I am a passionate **software developer** and **blockchain innovator** working with **Solidity**, **Rust**, **Ethereum**, **Solana**, and other cutting-edge technologies. I am committed to developing **secure**, **scalable**, and **decentralized** applications that push the boundaries of the blockchain ecosystem.
 
----
+🔧 **Technologies I work with**:
+- **Blockchain Development**: Ethereum, Solana, and Binance Smart Chain.
+- **Languages**: Solidity, Rust, JavaScript, TypeScript.
+- **Frameworks & Tools**: Truffle, Hardhat, Web3.js, Ethers.js.
+- **Smart Contracts**: Building secure and efficient smart contracts for real-world applications.
 
-## 🔐 Wallets  
-- **Ethereum**: `0x3d4746E71201557d8989F8bF1Fd921D9cE8fA6d8`  
-- **Solana**: `9iokiBMLPiL2ar5Ue7KBQ7aH9sWs8FMBRSSKyxANAAJi`
+## 🚀 Current Projects & Contributions
+- **[Lython](https://github.com/Livenium/Lython)** - A browser-based compiler and IDE for Ethereum contracts.
+- **[RektPanel](https://github.com/Rekt-Developer/RektPanel)** - A localhost web hosting control panel for Termux.
+- **[Smart Contracts Repository](https://github.com/Rekt-Developer/smart-contracts)** - Curating smart contracts across multiple blockchain networks.
+- **[Daily Routine BD](https://github.com/Rekt-Developer/Daily-Routine-BD)** - A Progressive Web App (PWA) for managing daily routines and food planning.
 
----
+## 🔗 Connect with Me
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhonsh3ikh&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsh3ikh&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
+- **GitHub**: [@likhonsh3ikh](https://github.com/likhonsh3ikh)
+- **Telegram**: [@likhondev](https://t.me/likhondev)
+- **LinkedIn**: [Likhon Sheikh](https://www.linkedin.com/in/likhon-sheikh)
+- **Personal Website**: [likhon.dev](https://likhon.dev)
 
----
+**Important Notice**:  
+🚨 **I will never DM first**. Please verify my username on GitHub (`likhonsh3ikh`) or Telegram (`@likhondev`) before engaging with me directly.
 
-## 🌐 Connect With Me
-<a href="mailto:isaac.likhon@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://t.me/RektDevelopers">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+## 🌐 Public Verification
 
----
+- **GitHub**: Verified **[GitHub Account](https://github.com/likhonsh3ikh)** - Always check my official account for secure communications.
+- **Telegram**: Verified **[Telegram Profile](https://t.me/likhondev)** - You can find me only through this handle.
 
-## 🚀 Featured Projects
-- **[RektPanel](https://github.com/Rekt-Developer/RektPanel)** - Free and open-source localhost web hosting control panel for Termux.
-- **[Lython](https://github.com/Livenium/Lython)** - Browser-based compiler and IDE for building Ethereum contracts.
-- **[Daily Routine BD](https://github.com/Rekt-Developer/Daily-Routine-BD)** - Advanced PWA for daily routine and food planning.
-- **[Smart Contracts](https://github.com/Rekt-Developer/smart-contracts)** - Curating smart contract information across blockchain networks.
+## 🛠️ Technologies & Tools
+- **Languages**: Solidity, Rust, JavaScript, Python
+- **Blockchain**: Ethereum, Solana, Binance Smart Chain
+- **Development Tools**: Truffle, Hardhat, Web3.js, Metamask
+- **Other Tools**: GitHub, Git, Docker, Kubernetes, IPFS, Chainlink
 
----
+## 🎨 My Projects Are Built with Passion
 
-<!-- Meta Tags for SEO and Social Media -->
+![Blockchain Animation](https://media.giphy.com/media/9J7z0J9npS2Fw/giphy.gif)
 
-<meta name="title" content="Likhon Sheikh - Innovator & Developer">
-<meta name="description" content="Likhon Sheikh is a passionate software developer working with blockchain technologies like Solidity, Rust, Ethereum, and Solana. Explore his projects and contributions on GitHub.">
-<meta name="keywords" content="Likhon Sheikh, Blockchain Developer, Solidity, Rust, Ethereum, Solana, TypeScript, Python, Web3, GitHub">
-<meta name="author" content="Likhon Sheikh">
-<meta name="robots" content="index, follow">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#4CAF50">
+I focus on developing projects that drive the future of decentralized technologies. Follow my projects and contribute to the ecosystem!
 
-<!-- Open Graph Tags for Social Media (Facebook, LinkedIn, etc.) -->
-<meta property="og:type" content="website">
+## 🚀 SEO Optimized Metadata & Tags
+
+```html
+<!-- Open Graph Tags for Social Media Sharing -->
 <meta property="og:title" content="Likhon Sheikh - Innovator & Developer">
 <meta property="og:description" content="Likhon Sheikh is a passionate software developer working with blockchain technologies like Solidity, Rust, Ethereum, and Solana. Explore his projects and contributions on GitHub.">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/69582352?v=4">
 <meta property="og:url" content="https://github.com/likhonsh3ikh">
 <meta property="og:site_name" content="Likhon Sheikh - GitHub">
 
-<!-- Twitter Card Tags -->
+<!-- Twitter Card Tags for Rich Preview on Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Likhon Sheikh - Innovator & Developer">
 <meta name="twitter:description" content="Likhon Sheikh is a passionate software developer working with blockchain technologies like Solidity, Rust, Ethereum, and Solana. Explore his projects and contributions on GitHub.">
