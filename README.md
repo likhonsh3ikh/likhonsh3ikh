@@ -1,84 +1,61 @@
-# Likhon Sheikh - Blockchain Developer & Innovator
+# Likhon Sheikh 🚀 Blockchain Developer & Innovator
 
-![Likhon Sheikh](https://avatars.githubusercontent.com/u/69582352?v=4)
+![Profile Banner](https://media.giphy.com/media/ahr4qU7ysRhWRQvNHG/giphy.gif)
 
-Welcome to my GitHub! I specialize in **blockchain development** using **Solidity**, **Rust**, **Ethereum**, and **Solana**. Explore my projects and contributions to the decentralized ecosystem below.
+## 👨‍💻 About Me
 
----
+I'm a passionate **Blockchain Developer** specializing in cutting-edge decentralized technologies. With expertise in **Solidity**, **Rust**, **Ethereum**, and **Solana**, I'm committed to building innovative solutions that push the boundaries of blockchain development.
 
-<!-- Hidden Advanced SEO Content for Crawlers and Bots -->
+## 🛠️ Tech Stack
 
-<!-- Open Graph Meta Tags for Enhanced Social Media Preview -->
-<meta property="og:title" content="Likhon Sheikh - Blockchain Developer & Innovator">
-<meta property="og:description" content="Likhon Sheikh is a passionate software developer working with blockchain technologies like Solidity, Rust, Ethereum, and Solana. Explore his projects and contributions on GitHub.">
-<meta property="og:image" content="https://avatars.githubusercontent.com/u/69582352?v=4">
-<meta property="og:url" content="https://github.com/likhonsh3ikh">
-<meta property="og:site_name" content="Likhon Sheikh - GitHub">
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- Additional Open Graph Metadata for Deeper Engagement -->
-<meta property="og:type" content="profile">
-<meta property="og:locale" content="en_US">
-<meta property="og:updated_time" content="2024-12-14T00:00:00+00:00">
+## 🚀 Featured Projects
 
-<!-- Twitter Card Meta Tags for Enhanced Sharing on Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Likhon Sheikh - Innovator & Developer">
-<meta name="twitter:description" content="Likhon Sheikh is a passionate software developer working with blockchain technologies like Solidity, Rust, Ethereum, and Solana. Explore his projects and contributions on GitHub.">
-<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/69582352?v=4">
-<meta name="twitter:site" content="@likhonsh3ikh">
-<meta name="twitter:creator" content="@likhonsh3ikh">
+### 1. Lython 💻
+**Browser-based Ethereum Contract Compiler**
+- Advanced compilation tools
+- Seamless contract development
+- [View Project](https://github.com/Livenium/Lython)
 
-<!-- Structured Data for Rich Results (JSON-LD) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Likhon Sheikh",
-  "url": "https://github.com/likhonsh3ikh",
-  "image": "https://avatars.githubusercontent.com/u/69582352?v=4",
-  "description": "Likhon Sheikh is a passionate software developer specializing in blockchain technologies like Solidity, Rust, Ethereum, and Solana.",
-  "sameAs": [
-    "https://www.linkedin.com/in/likhon-sheikh",
-    "https://t.me/likhondev",
-    "https://likhon.dev"
-  ]
-}
-</script>
+### 2. RektPanel 🖥️
+**Open-Source Web Hosting Panel for Termux**
+- Simplified web hosting management
+- Lightweight and efficient
+- [View Project](https://github.com/Rekt-Developer/RektPanel)
 
-<!-- Favicon and Icons for Visibility Across Platforms -->
-<link rel="icon" href="https://avatars.githubusercontent.com/u/69582352?v=4" type="image/png">
-<link rel="icon" href="https://www.example.com/favicon.ico" type="image/x-icon">
+### 3. Smart Contracts Repository 📜
+**Comprehensive Blockchain Contract Collection**
+- Curated smart contract implementations
+- Best practices and security-focused
+- [View Repository](https://github.com/Rekt-Developer/smart-contracts)
 
-<!-- Public Verification Tags (Invisible to the User) -->
-<meta name="github-verification" content="true">
-<meta name="telegram-verification" content="true">
-<meta name="email-verification" content="true">
+## 📊 GitHub Stats
 
-<!-- End Hidden Advanced SEO Content -->
+![Likhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhonsh3ikh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsh3ikh&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhon-sheikh)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhondev)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://likhon.dev)
+
+## 🏆 Achievements & Contributions
+
+- 🌟 Active contributor to open-source blockchain projects
+- 🔒 Focus on smart contract security and optimization
+- 📈 Continuous learning and innovation in decentralized technologies
 
 ---
 
-## Projects:
-- **[Lython](https://github.com/Livenium/Lython)** - Browser-based compiler for Ethereum contracts.
-- **[RektPanel](https://github.com/Rekt-Developer/RektPanel)** - Open-source web hosting panel for Termux.
-- **[Smart Contracts Repository](https://github.com/Rekt-Developer/smart-contracts)** - Curating and managing blockchain contracts.
+#### 🔍 Profile Views
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=flat-square)
 
-## Animations and Visual Enhancements:
-```html
-<!-- Hidden Animation Code for Engaging Content (visible only in browsers) -->
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  .animated-banner {
-    animation: fadeIn 2s ease-out;
-  }
-</style>
-
-<div class="animated-banner">
-  <img src="https://media.giphy.com/media/9J7z0J9npS2Fw/giphy.gif" alt="Blockchain Animation" />
-</div>
+*Innovating the future, one block at a time* 🌐🔗
