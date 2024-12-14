@@ -3,11 +3,11 @@
 - **Decentralized Finance (DeFi) Protocols** 💸
 - **Web3 Architecture Design** 🏗️
 
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=for-the-badge&color=blueviolet)
 
 #### Blockchain Platforms
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -30,5 +30,3 @@
 
 ---
 
-#### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=for-the-badge&color=blueviolet)
