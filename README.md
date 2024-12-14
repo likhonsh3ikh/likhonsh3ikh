@@ -1,6 +1,6 @@
 # Likhon Sheikh 🚀 Blockchain Developer & Innovator
 
-![Profile Banner](https://media.giphy.com/media/ahr4qU7ysRhWRQvNHG/giphy.gif)
+![Profile Banner](https://raw.githubusercontent.com/likhonsh3ikh/likhonsh3ikh/refs/heads/main/tenor.gif))
 
 ## 👨‍💻 About Me
 
