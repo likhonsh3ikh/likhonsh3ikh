@@ -1,33 +1,37 @@
-# Likhon Sheikh 🚀 Blockchain Developer  
-
 ![Profile Banner](https://raw.githubusercontent.com/likhonsh3ikh/likhonsh3ikh/refs/heads/main/tenor.gif)  
 
-**Innovating the future of decentralized technologies.**  
-Expert in **Solidity**, **Rust**, **Ethereum**, and **Solana**, building scalable and secure blockchain solutions.  
+**লিখন শেখ**  
+ব্লকচেইনের খেলায় মেতে আছি, কোড দিয়ে ভবিষ্যৎ গড়ছি!  
+**Solidity**, **Rust**, **Ethereum**, আর **Solana** নিয়ে কাজ করি। মিশন? ব্লকচেইনের দুনিয়া কাঁপানো!  
 
 ---
 
-## ⚡ Skills  
-- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)  
-- ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)  
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+**লিখন শেখ কে?**  
+একজন প্যাশনেট ব্লকচেইন ডেভেলপার, যিনি ভবিষ্যতের ডিসেন্ট্রালাইজড প্রযুক্তি নিয়ে কাজ করেন। নতুন কিছু শেখা আর গড়ার নেশা যাকে এগিয়ে রাখে প্রতিদিন।  
 
 ---
 
-## 🚀 Featured Projects  
-- **[Lython](https://github.com/Livenium/Lython)**: Browser-based Ethereum contract compiler and IDE.  
-- **[RektPanel](https://github.com/Rekt-Developer/RektPanel)**: Lightweight hosting panel for Termux.  
-- **[Smart Contracts](https://github.com/Rekt-Developer/smart-contracts)**: Comprehensive blockchain contract library.  
+**স্কিল যা দিয়ে খেলব:**  
+- Solidity (স্মার্ট কন্ট্রাক্টের রাজা)  
+- Rust (গতির কোনো তুলনা নাই)  
+- Ethereum (ব্লকচেইনের বস)  
+- Solana (ফাস্ট, সিকিউর, আর সস্তা!)  
+- React (ফ্রন্টএন্ডের ঝামেলা শেষ)  
+- TypeScript (টাইপ সেফ আর মিথ্যা সেফ!)  
 
 ---
 
-## 🌐 Connect with Me  
+**প্রজেক্ট যা নিয়ে রাত জাগি:**  
+- [Lython](https://github.com/Livenium/Lython) – ব্রাউজারে Ethereum কন্ট্রাক্ট কম্পাইল করার সিস্টেম। কোডিং এর আল্টিমেট লেভেল!  
+- [RektPanel](https://github.com/Rekt-Developer/RektPanel) – টার্মাক্স এর জন্য ফ্রি আর ফাস্ট হোস্টিং কন্ট্রোল প্যানেল।  
+- [Smart Contracts](https://github.com/Rekt-Developer/smart-contracts) – ব্লকচেইন স্মার্ট কন্ট্রাক্টের গল্পঘর।  
+
+---
+
+**আমাকে খুঁজে পাবেন এখানে:**  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhondev)  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://likhon.dev)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=flat-square)  
 
-*Building the decentralized future, one block at a time.*
+**কথা আছে:** ডিসেন্ট্রালাইজড ভবিষ্যৎ স্বপ্ন দেখি, আর ব্লকচেইনের কোড দিয়ে সেটা বাস্তবায়ন করি।
