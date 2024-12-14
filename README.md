@@ -1,10 +1,3 @@
-- **Blockchain Security** 🔒
-- **Smart Contract Development** 📝
-- **Decentralized Finance (DeFi) Protocols** 💸
-- **Web3 Architecture Design** 🏗️
-
-<a href="https://soliditylang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50" alt="Solidity"/>
 </a>
 <a href="https://www.rust-lang.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" alt="Rust"/>
