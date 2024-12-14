@@ -3,14 +3,27 @@
 - **Decentralized Finance (DeFi) Protocols** 💸
 - **Web3 Architecture Design** 🏗️
 
-![Solidity](https://img.shields.io/badge/-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Polygon](https://img.shields.io/badge/-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![View Count](https://komarev.com/ghpvc/?username=likhonsh3ikh&style=flat-square&color=blueviolet)
+<a href="https://soliditylang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50" alt="Solidity"/>
+</a>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" alt="Rust"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+</a>
+<a href="https://ethereum.org/" target="_blank">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50" height="50" alt="Ethereum"/>
+</a>
+<a href="https://solana.com/" target="_blank">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="50" height="50" alt="Solana"/>
+</a>
+<a href="https://polygon.technology/" target="_blank">
+  <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" width="50" height="50" alt="Polygon"/>
+</a>
 
 ### 🔐 Blockchain Wallets
 - **Ethereum**: `0x3d4746E71201557d8989F8bF1Fd921D9cE8fA6d8`
