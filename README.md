@@ -1,4 +1,4 @@
-![Web3 Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZtbTBlMGFhbDVrMXg4YmN1YTh1czk2aG9qcWR0aWx1bTU5bTQ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qjqUcg3mg0YQNS8zxo/giphy.gif)
+![Web3 Developer](tenor.gif)
 
 - আমি তুরীয়ানন্দে ছুটে চলি, এ কি উন্মাদ আমি উন্মাদ! ❤️
 
