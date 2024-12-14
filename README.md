@@ -2,13 +2,10 @@
 
 ![Profile Banner](https://raw.githubusercontent.com/likhonsh3ikh/likhonsh3ikh/refs/heads/main/tenor.gif))
 
-## 👨‍💻 About Me
 
 I'm a passionate **Blockchain Developer** specializing in cutting-edge decentralized technologies. With expertise in **Solidity**, **Rust**, **Ethereum**, and **Solana**, I'm committed to building innovative solutions that push the boundaries of blockchain development.
 
 ---
-
-## 🛠️ Tech Stack
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
