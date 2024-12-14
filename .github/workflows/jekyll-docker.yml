@@ -1,0 +1,72 @@
+name: Readme Generator
+on:
+  schedule: [{ cron: '0 0 * * *' }]  # Runs once daily
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: GitHub Metrics (Left)
+      - name: 🐈‍⬛ Left
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/left.svg
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, starts, achievements
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          token: ${{ secrets.GH_TOKEN }}
+
+      # Step 2: Anilist & Steam Metrics (Right)
+      - name: 🐈‍⬛ Right
+        uses: lowlighter/metrics@latest
+        with:
+          config_order: anilist, steam
+          filename: assets/right.svg
+          base: ''
+          plugin_anilist_user: 'canisminor1990'  # Replace with your Anilist username
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 22
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: '076561198054835207'  # Replace with your Steam ID
+          plugin_steam_achievements_limit: 1
+          token: ${{ secrets.GH_TOKEN }}
+
+      # Step 3: Wakatime Metrics (Code activity)
+      - name: ⏰ Waka
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: 'False'
+          SHOW_PROJECTS: 'False'
+          SHOW_LANGUAGE: 'False'
+          SHOW_TIMEZONE: 'False'
+          SHOW_EDITORS: 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
+          SHOW_SHORT_INFO: 'False'
+          SHOW_LOC_CHART: 'False'
+          SHOW_TOTAL_CODE_TIME: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+          SHOW_DAYS_OF_WEEK: 'False'
+          SYMBOL_VERSION: 3  # Advanced symbol version for better layout
+          
+      # Step 4: Commit the updated README with the generated SVGs
+      - name: Commit README with Updated Stats
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md assets/left.svg assets/right.svg
+          git commit -m "Update README with latest metrics"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
