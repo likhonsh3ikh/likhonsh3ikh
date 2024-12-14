@@ -2,13 +2,12 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:likhonsh3ikh@icloud.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/likhonsh3ikh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhonsheikh)  
+
 
 ---
 
 ## 💡 **About Me**
 
-Blockchain innovator specializing in:  
 - **Smart Contracts**  
 - **DeFi Protocols**  
 - **Blockchain Security**  
@@ -31,14 +30,6 @@ Blockchain innovator specializing in:
 
 - **Ethereum**: `0x3d4746E71201557d8989F8bF1Fd921D9cE8fA6d8`  
 - **Solana**: `9iokiBMLPiL2ar5Ue7KBQ7aH9sWs8FMBRSSKyxANAAJi`  
-- **ENS**: `sh33ikh.cb.id`  
-
----
-
-## 🏆 **Projects**
-
-- **Livenium**: Secure blockchain language  
-- **Ethereum Explorer**: Blockchain tracker for Web3  
 
 ---
 
