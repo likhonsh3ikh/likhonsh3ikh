@@ -1,14 +1,9 @@
-# 🚀 Likhon Sheikh | Web3 Security & Blockchain Engineer
-
-## 🌐 Professional Profile
-
-### 💡 Core Expertise
 - **Blockchain Security** 🔒
 - **Smart Contract Development** 📝
 - **Decentralized Finance (DeFi) Protocols** 💸
 - **Web3 Architecture Design** 🏗️
 
-#### Languages & Technologies
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
